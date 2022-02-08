@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/releaseband/eslint-config-typescript/compare/v1.0.1...v1.0.2) (2022-02-08)
+
+
+### Bug Fixes
+
+* add jest deps ([a3c6087](https://github.com/releaseband/eslint-config-typescript/commit/a3c60875b2a9f838fa7509ae9b316b0788859db5))
+
 ## [1.0.1](https://github.com/releaseband/eslint-config-typescript/compare/v1.0.0...v1.0.1) (2022-02-08)
 
 
