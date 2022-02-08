@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/releaseband/eslint-config-typescript/compare/v1.0.0...v1.0.1) (2022-02-08)
+
+
+### Bug Fixes
+
+* add peerDependencies ([197af02](https://github.com/releaseband/eslint-config-typescript/commit/197af02e4940b71a4c48467fa341f28833140cf7))
+
 # 1.0.0 (2022-02-08)
 
 
