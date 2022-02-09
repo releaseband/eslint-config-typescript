@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/releaseband/eslint-config-typescript/compare/v1.0.2...v1.0.3) (2022-02-09)
+
+
+### Bug Fixes
+
+* edit import/no-extraneous-dependencies rule ([9e3bb24](https://github.com/releaseband/eslint-config-typescript/commit/9e3bb249bf31713936765f52935ff6dc66c378bc))
+
 ## [1.0.2](https://github.com/releaseband/eslint-config-typescript/compare/v1.0.1...v1.0.2) (2022-02-08)
 
 
