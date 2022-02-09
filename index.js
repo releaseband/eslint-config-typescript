@@ -15,7 +15,7 @@ module.exports = {
   rules: {
     'import/no-extraneous-dependencies': [
       'error',
-      { devDependencies: ['**/*.test.ts', '**/*.spec.ts'] },
+      { devDependencies: ['**/*.config.js', '**/*.config.ts', '**/*.test.ts', '**/*.spec.ts'] },
     ],
     'simple-import-sort/imports': 'error',
     'simple-import-sort/exports': 'error',
